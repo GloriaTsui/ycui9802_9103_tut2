@@ -1,12 +1,19 @@
 # ycui9802_9103_tut2
 
-This is a repo that I will use to learn guthub.
+# Week 8 Project: Wheels of Fortune - Artistic Inspiration and Coding Technique 
 
-v2
+## Part 1: Imaging Technique Inspiration 
+With the choice of Wheels of fortune by Pacita Abad, my inspiration of imaging technique would be oil paintings and open-air sculptures by Yayoi Kusama. The geometrical shapes (circles and dots) in Wheels of fortune and Kusama’s artworks are strikingly similar, however, Kusama reflected more in Abstract Expressionism, thus the shape in Kusama’s artworks are no longer shapes themselves but more about illusions or metaphor. As Pacita Abad’s ‘Wheels of fortune’ was also a metaphor created by abstract shapes, considering about the assignment requirements, I would like to add more visual effects on expressing the illusive atmosphere.
+![Example Image] (assets/pumpkin-1990.jpg)
+![Example Image] (assets/fields-in-spring-1988.jpg)
+![Example Image] (assets/dots-obsession-full.jpg)
 
-# Header 1
-## Header 2
-### Header 3
-#### Header 4
-##### Header 5
-###### Header 6
+## Part 2: Coding Technique Exploration
+To convey the sense of illusions in "Wheels of Fortune" by Pacita Abad, I am considering implementing a circle collision’ to simulate interactions between wheels. With the application of this motion technique, the movements and impacts between circles could lead to chain reaction, represent ‘fortune’ to some extent: the collision may leads to random movement, as uncertain as ‘fortune’ or ‘destiny’. The visual expression of the circles might resemble gears: the circles rotate, collide, and restricted by chains. I’m also considering using 3d elements and apply ‘multiple lights’ technique, which could let the lights create a psychedelic environment.
+
+Circle Collision:
+https://p5js.org/examples/motion-circle-collision.html
+![Example Image] (assets/circle-collision.png)
+Multiple lights:
+https://p5js.org/examples/3d-multiple-lights.html
+![Example Image] (assets/multiple-lights.png)
